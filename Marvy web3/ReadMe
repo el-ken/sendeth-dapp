@@ -1,10 +1,10 @@
-# blockchain-exchange-dapp
+# blockchain-sendeth-dapp
 # Overview
-Blockchain Exchange site is a decentralized web application that allows users to:
+Blockchain sendeth dapp is a decentralized web application that allows users to:
 
-exchange blockchain from different wallets and access them in a decentralized manner.
+transfer Ethereum from one wallet to a different wallet and access them in a decentralized manner.
 
-it also help record transactions publicly on your page that are authentic and can be verified on etherscan.
+it also help record transactions publicly on your page that are authentic.
 
 this also ensure every transactions are moved from an address to another address in a decentralised way that you don't have to pay a huge amount of gas fees.
 
